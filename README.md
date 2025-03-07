@@ -1,3 +1,4 @@
+![darcula logo](https://darcula.me/wp-content/uploads/2025/03/cropped-Snipaste_2025-03-07_18-15-47-1.png)
 # Phishing Templates 神奇猫猫V3模板
 A collection of 300+ [phishing templates 查看模板](https://darcula.me) used by darcula for ethical cybersecurity awareness training.
 
