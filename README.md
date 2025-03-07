@@ -1,7 +1,7 @@
 # Phishing Templates
 A collection of 45 [phishing emails](https://linksec.io/phishing-simulator) used by LinkSec for ethical cybersecurity awareness training.
 
-![alt text](demo-zoom.png)
+![alt text](https://darcula.me/wp-content/uploads/2025/03/image-9.png)
 
 The intention are these phishing templates can be used for pen testing engagements and security awareness training.
 
