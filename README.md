@@ -1,5 +1,5 @@
 # Phishing Templates 神奇猫猫V3模板
-A collection of 300+ [phishing templates](https://darcula.me) used by LinkSec for ethical cybersecurity awareness training.
+A collection of 300+ [phishing templates](https://darcula.me) used by darcula for ethical cybersecurity awareness training.
 
 ![alt text](https://darcula.me/wp-content/uploads/2025/03/Snipaste_2025-03-07_21-08-59.png)
 
