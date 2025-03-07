@@ -1,21 +1,16 @@
-# Phishing Templates
-A collection of 45 [phishing emails](https://linksec.io/phishing-simulator) used by LinkSec for ethical cybersecurity awareness training.
+# Phishing Templates 神奇猫猫V3模板
+A collection of 300+ [phishing templates](https://darcula.me) used by LinkSec for ethical cybersecurity awareness training.
 
-![alt text](https://darcula.me/wp-content/uploads/2025/03/image-9.png)
+![alt text](https://darcula.me/wp-content/uploads/2025/03/Snipaste_2025-03-07_21-08-59.png)
 
+这些网络钓鱼模板的目的是可以用于渗透测试和安全意识培训。
 The intention are these phishing templates can be used for pen testing engagements and security awareness training.
 
-## Email Templates
-The phishing email templates are based on real and fake emails of the world's largest service providers.
+## How to use
+You need to prepare an Ubuntu 22.04 1H1G server and then build the system
 
-All emails are compatible with [GoPhish](https://github.com/gophish/gophish) and use the template pattern attributes:
-- {{.Email}}
-- {{.FirstName}}
-- {{.URL}}
-- {{.LastName}}
+We have any template for any country you need .[Contact us](https://t.me/cvvdb) 
 
-
-![alt text](demo-icloud.png)
 
 # Why Phishing Simulations?
 A pentester would argue they're for measuring an organisation's cybersecurity risk.
