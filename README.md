@@ -1,5 +1,5 @@
 # Phishing Templates 神奇猫猫V3模板
-A collection of 300+ [phishing templates](https://darcula.me) used by darcula for ethical cybersecurity awareness training.
+A collection of 300+ [phishing templates 查看模板](https://darcula.me) used by darcula for ethical cybersecurity awareness training.
 
 ![alt text](https://darcula.me/wp-content/uploads/2025/03/Snipaste_2025-03-07_21-08-59.png)
 
@@ -9,7 +9,7 @@ The intention are these phishing templates can be used for pen testing engagemen
 ## How to use
 You need to prepare an Ubuntu 22.04 1H1G server and then build the system
 
-We have any template for any country you need .[Contact us](https://t.me/cvvdb) 
+We have any template for any country you need .[Contact us 联系我们](https://t.me/cvvdb) 
 
 
 # Why Phishing Simulations?
